@@ -1,2 +1,11 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "matchDatasources": ["docker"],
+      "matchPackageNames": ["registry.access.redhat.com/ubi8/ubi-minimal"],
+      "replacementName": "custom.onpremise/ubi8/ubi-minimal",
+      "replacementVersion": "8.5"
+    }
+  ]
 }
