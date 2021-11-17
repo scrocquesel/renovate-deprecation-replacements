@@ -7,5 +7,7 @@
       "replacementName": "custom.onpremise/ubi8/ubi-minimal",
       "replacementVersion": "8.5"
     }
-  ]
+  ],
+  "dependencyDashboard": true,
+  "dependencyDashboardLabels": ["foo"],
 }
