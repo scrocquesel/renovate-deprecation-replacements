@@ -9,5 +9,5 @@
     }
   ],
   "dependencyDashboard": true,
-  "dependencyDashboardLabels": ["foo", "bar"]
+  "dependencyDashboardLabels": ["foo"]
 }
